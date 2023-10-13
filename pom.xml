@@ -40,8 +40,9 @@
             <plugin>
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
-            </plugin>
+            </plugin>		
         </plugins>
+	<finalName>chatgpt-spring-boot</finalName>    
     </build>
 
 </project>
